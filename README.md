@@ -19,3 +19,10 @@ The clock displays the current hours, minutes, and seconds and updates automatic
 - HTML5
 - CSS3
 - JavaScript
+
+## ⚙️ How It Works
+
+JavaScript is used to get the current time from the user's system and update the clock every second.
+The project uses:
+- setInterval()                                                                                                              
+to continuously update the displayed time.
