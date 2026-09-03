@@ -1,2 +1,21 @@
-# digital-clock
-A modern and responsive digital clock built with HTML, CSS, and JavaScript that displays the current time in real time.
+# Digital Clock ⏰
+
+A simple and modern digital clock built using HTML, CSS, and JavaScript.
+
+The clock displays the current hours, minutes, and seconds and updates automatically in real time.
+
+## 🚀 Features
+
+- ⏰ Real-time digital clock
+- 🕐 Displays hours, minutes, and seconds
+- 🔄 Automatically updates every second
+- 🎨 Modern gradient UI
+- 📱 Responsive design
+- ⚡ Built with vanilla JavaScript
+- 💻 No external libraries required
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
