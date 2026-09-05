@@ -20,6 +20,13 @@ The clock displays the current hours, minutes, and seconds and updates automatic
 - CSS3
 - JavaScript
 
+  ## ⚙️ How It Works
+
+JavaScript is used to get the current time from the user's system and update the clock every second.
+The project uses:
+- setInterval()                                                                                                              
+to continuously update the displayed time.
+
 ##  🎯 Purpose
 
 This project was created to practice:
@@ -30,9 +37,12 @@ This project was created to practice:
 - CSS styling
 - Responsive web design
 
-## ⚙️ How It Works
+## 🌱 Future Improvements
 
-JavaScript is used to get the current time from the user's system and update the clock every second.
-The project uses:
-- setInterval()                                                                                                              
-to continuously update the displayed time.
+- Add 12-hour / 24-hour format
+- Add AM/PM indicator
+- Add date and day
+- Add different themes
+- Add multiple time zones
+- Add customizable clock styles
+  
