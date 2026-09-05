@@ -22,10 +22,9 @@ The clock displays the current hours, minutes, and seconds and updates automatic
 
   ## ⚙️ How It Works
 
-JavaScript is used to get the current time from the user's system and update the clock every second.
-The project uses:
-- setInterval()                                                                                                              
-to continuously update the displayed time.
+ JavaScript is used to get the current time from the user's system and update the clock every second.
+ The project uses:
+ - setInterval()                                                                                                              to continuously update the displayed time.
 
 ##  🎯 Purpose
 
@@ -46,3 +45,11 @@ This project was created to practice:
 - Add multiple time zones
 - Add customizable clock styles
   
+## 👨‍💻 Author
+
+  Abdul Hannan Zahid 
+ - Frontend Developer | BSCS Student
+
+## ⭐ Support
+
+ If you like this project, consider giving it a ⭐ on GitHub.
